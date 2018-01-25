@@ -1,0 +1,11 @@
+include /partials/header 
+different from
+partials/header
+
+one is absolute path, while the other is relative path, 
+one means go back to root and search,
+the other is search here.
+
+
+##Intro to db
+sql relational vs. nosql nonrelational

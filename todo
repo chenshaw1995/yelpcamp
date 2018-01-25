@@ -1,0 +1,25 @@
+=================
+add landing page
+
+campgrounds page taht lists all campgrounds
+each campground has:
+	name
+	image
+=================
+MONGOdb
+
+mongod
+mongo
+help
+show dbs
+use
+
+insert
+find
+update
+remove
+
+=================
+mongoose
+why
+interact with db
